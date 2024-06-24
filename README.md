@@ -1,7 +1,7 @@
 # open-course-delta-lake
 Welcome to the Delta Lake Feature Courseware repository! This open-source courseware is designed to help you master the various features of Delta Lake through hands-on experience with Colab notebooks. 
 
-Supplement your learning with our comprehensive Udemy course and engaging TikTok videos and YouTube Shorts.
+In the near future, you will be able to supplement your learning with our comprehensive Udemy course and engaging TikTok videos and YouTube Shorts.
 
 ## Features
 
@@ -10,14 +10,15 @@ Supplement your learning with our comprehensive Udemy course and engaging TikTok
 - **Engaging Video Content:** Reinforce your learning with short, informative videos on TikTok and YouTube Shorts, perfect for quick tips and insights.
 
 ## Course Content
+1. **Time Travel and Versioning**
+2. **Creating Blockchain using Delta Lake**
+3. **Add financial transactions to the Blockchain via API**
+4. **Verify blockchain integrity and Detect anomalies**
 
-1. **Introduction to Delta Lake**
-2. **Data Ingestion and Storage**
-3. **Schema Evolution and Enforcement**
-4. **Time Travel and Versioning**
-5. **Optimizing Data Storage and Queries**
-6. **Data Consistency and Reliability**
-7. **Advanced Delta Lake Features**
+## Future Course Content   
+1. **Optimizing Data Storage and Queries**
+2. **Data Consistency and Reliability**
+3. **Advanced Delta Lake Features**
 
 ## How to Use
 
@@ -28,7 +29,7 @@ Supplement your learning with our comprehensive Udemy course and engaging TikTok
 
 2. Open the Notebooks:
 
-Navigate to the Colab notebooks folder.
+Navigate to the Colab notebooks located in the root folder.
 Open the notebooks in Google Colab to start experimenting with Delta Lake features.
 
 We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
